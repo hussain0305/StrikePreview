@@ -8,6 +8,9 @@
 >
 > 🎨 This is a solo project — all design, programming, and visual effects were done without an artist. The game's appearance is driven entirely by custom shaders, code-based visuals, and gameplay-driven ideas.
 
+> 👋 **Hey there!**  
+> This project is a partial snapshot shared for recruiters and reviewers. It includes most of the core systems, but a few files and assets are intentionally left out. If you're curious about anything specific or want a closer look, just let me know — happy to walk you through it!
+
 ---
 
 ## 🕹 Gameplay Highlights
